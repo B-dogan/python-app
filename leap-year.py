@@ -1,7 +1,7 @@
 # import module sys to get the type of exception
 import sys
 
-randomList = ['a', 0, 2]
+randomList = ['saul', 0, 2]
 
 for entry in randomList:
     try:
